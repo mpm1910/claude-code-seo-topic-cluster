@@ -251,6 +251,4 @@
 
   - https://github.com/anthropics/claude-code
   - https://www.senuto.com/
-  - https://github.com/username/seo-knowledge-base
-
   ---
