@@ -2,13 +2,13 @@
 
   **Agent SEO do automatycznego tworzenia klastrów tematycznych z słów kluczowych**
 
-  Nowoczesny agent wykorzystujący podejście oparte na encjach, intencji wyszukiwania i semantic clustering do profesjonalnego grupowania keywords i tworzenia strategii contentu.
+  Nowoczesny agent wykorzystujący podejście oparte na encjach, intencji wyszukiwania i semantycznego tworzenia klastrów tematycznych.
 
   ---
 
   ## 📋 Opis
 
-  Topic Cluster Agent to specjalistyczny agent dla Claude Code, który analizuje eksporty słów kluczowych (Senuto/Excel) i automatycznie:
+  Topic Cluster Agent to specjalistyczny agent dla Claude Code, który analizuje eksporty słów kluczowych (Senuto/DataForSEO) i automatycznie:
 
   - ✅ Grupuje keywords według **encji** (core entities)
   - ✅ Klasyfikuje **intencje wyszukiwania** (informacyjna, komercyjna, transakcyjna)
